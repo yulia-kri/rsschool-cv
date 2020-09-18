@@ -1,0 +1,38 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    min-height: 150px;
+    background-color: #14213d;
+    color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+}
+
+.wrapper {
+    margin: 0 auto;
+    width: 90%;
+}
+
+.contacts {
+    display: flex;
+}
+
+.contacts p:first-child {
+    margin-right: 2em;
+}
+
+h3 {
+    color: #fca311;
+}
+
+img {
+    position: absolute;
+    top: 0;
+    left: 1em;
+    border-radius: 50%;
+    border: 3px solid white;
+}

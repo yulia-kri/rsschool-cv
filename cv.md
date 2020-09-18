@@ -25,4 +25,4 @@ wesbos.com
 freeCodeCamp.org
 
 ### English
-I practice English watching films and tv shows, reading books, and while I’m travelling.
+I practice English watching films and tv shows, and while I’m travelling.
